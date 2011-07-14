@@ -1,0 +1,13 @@
+obj
+bin
+!/bin
+*.user
+*.suo
+*.orig
+package
+nuget.exe
+_ReSharper.*
+*.ReSharper.user
+*.Cache
+*.cache
+~$*
